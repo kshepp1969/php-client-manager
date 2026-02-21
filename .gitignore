@@ -1,0 +1,24 @@
+# Environment
+.env
+
+# Logs
+/storage/logs/*
+!storage/logs/.gitkeep
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Composer (if added later)
+vendor/
+
+# Node (if ever added)
+node_modules/
+
+# Database dumps
+*.sql
